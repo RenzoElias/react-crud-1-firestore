@@ -1,5 +1,5 @@
-# react-crud-1-firestore
-React - CRUD - Cloud Firestore
+# React - CRUD - Cloud Firestore - Hooks useState
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
