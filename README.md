@@ -1,4 +1,4 @@
-# React - CRUD - Cloud Firestore - Hooks useState
+# React - CRUD Login Email - Authentication Firebase Hosting - Cloud Firestore - Hooks - useEffect - useState -useCallback - React Router
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
